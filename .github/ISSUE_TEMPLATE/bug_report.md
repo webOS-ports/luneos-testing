@@ -26,7 +26,7 @@ If applicable, add screenshots to help explain your problem.
 **Smartphone (please complete the following information):**
  - Device: [e.g. hammerhead]
  - OS: LuneOS
- - Version [e.g. 20220125]
+ - Version: [e.g. 20220125]
 
 **Additional context**
 Add any other context about the problem here.
